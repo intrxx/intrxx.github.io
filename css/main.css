@@ -3616,3 +3616,42 @@ html[data-useragent*='rv:11.0'] .ss-go-top::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.keywords {
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-image: url(../images/logos/Keywords_Studios_Logo.png);
+  background-size: contain;
+  position: absolute;
+  top: 45%;
+  right: 0;
+  bottom: 0;
+  left: 10%;
+}
+
+.thefarm51 {
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-image: url(../images/logos/The_Farm51_Logo.jpg);
+  background-size: contain;
+  position: absolute;
+  top: 35%;
+  right: 0;
+  bottom: 0;
+  left: 10%;
+}
+
+.jujubee {
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-image: url(../images/logos/Jujubee_Logo.jpeg);
+  background-size: contain;
+  position: absolute;
+  top: 35%;
+  right: 0;
+  bottom: 0;
+  left: 10%;
+}
